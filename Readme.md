@@ -1,8 +1,8 @@
-Certainly! Below is the README file for your `MusicStreaming` smart contract:
-
----
+ 
 
 # Music Streaming Smart Contract
+
+![image](https://github.com/user-attachments/assets/bdab50b6-2ab4-4c9a-b154-757f310b830d)
 
 ## Vision
 
